@@ -6,6 +6,10 @@
   "repository": "git@github.com:mayconbalves/meat-api.git",
   "author": "mayconbalves <mayconmustaine@hotmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon dist/main.js",
+    "ts:watch": "tsc -w"
+  },
   "dependencies": {
     "restify": "6.3.4"
   },
