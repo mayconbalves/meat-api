@@ -1,0 +1,16 @@
+{
+  "name": "meat-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "API meat",
+  "repository": "git@github.com:mayconbalves/meat-api.git",
+  "author": "mayconbalves <mayconmustaine@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "restify": "6.3.4"
+  },
+  "devDependencies": {
+    "@types/restify": "^8.5.1",
+    "nodemon": "^2.0.7"
+  }
+}
