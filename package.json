@@ -11,9 +11,11 @@
     "ts:watch": "tsc -w"
   },
   "dependencies": {
+    "mongoose": "^5.12.2",
     "restify": "6.3.4"
   },
   "devDependencies": {
+    "@types/mongoose": "^5.10.4",
     "@types/restify": "^8.5.1",
     "nodemon": "^2.0.7"
   }
